@@ -1,2 +1,2 @@
 # random
-A collection of random stuff
+MDP Project
